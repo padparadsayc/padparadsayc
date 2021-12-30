@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <p >
-  <img src="https://github-readme-stats.vercel.app/api?username=padparadsayc" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=padparadsayc&layout=compact" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=padparadsayc" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=padparadsayc&layout=compact" height="150">
 </p>
 
 <!--
